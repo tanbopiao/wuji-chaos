@@ -1,0 +1,1 @@
+{ "name": "wuji-chaos", "version": "0.1.0", "description": "无极 · 通用大模型混沌观测器", "type": "commonjs", "main": "observe.js", "bin": { "wuji-observe": "./observe.js" }, "license": "Apache-2.0" }
